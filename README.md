@@ -1,5 +1,5 @@
 # Clicks-keyboard-shortcuts
-Clicks Keyboard Shortcuts for the Motoroal Razr Ultra:
+Clicks Keyboard Shortcuts for the Motorola Razr Ultra:
 
 Physical keyboard with real shortcuts:
 
