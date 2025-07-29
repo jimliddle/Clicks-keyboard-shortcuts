@@ -27,7 +27,7 @@ Physical keyboard with real shortcuts:
 
 Setup:
 
-Clicks APp -> Allow background usage
+Clicks App -> Allow background usage
 → Settings → Apps → Clicks → Battery → Set to Allow background usage
 → Also disable “Remove permissions and free up space”
 
